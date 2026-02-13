@@ -1,0 +1,20 @@
+{
+  "name": "gcb-child-centered-testimony-template",
+  "version": "0.1.0",
+  "method": "Mirror-Water-Fire",
+  "principles": [
+    "Child-centered",
+    "Neutral tone",
+    "Verifiable facts",
+    "Privacy-by-default",
+    "Provenance and change control"
+  ],
+  "folders": {
+    "canon": "Rules and standards for credible documentation",
+    "quickstart": "How to use the system quickly",
+    "casepack": "Logs and narrative sections",
+    "exhibits": "Exhibit index + redaction + chain-of-custody",
+    "templates": "Copy/paste entry templates",
+    "provenance": "Source-of-truth + hashing + releases"
+  }
+}
